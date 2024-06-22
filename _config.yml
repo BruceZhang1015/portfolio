@@ -2,7 +2,7 @@
 title: Bruce Zhang
 
 # Theme settings
-remote_theme: minima
+remote_theme: cayman
 plugins:
   - jekyll-remote-theme
 
